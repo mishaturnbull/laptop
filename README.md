@@ -14,3 +14,9 @@
   * 1x M.2 SATA 2260
   * 1x SATA 3.0 6Gb/s standard connector
 
+# Use & reproduction permissions
+
+This repository is licensed under the MIT license.  The only thing I ask is
+that if you're going to make one, email me.  I'm curious about how many of
+these machines there are going to be.
+
